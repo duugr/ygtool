@@ -8,6 +8,6 @@ class Status
 {
 	public function test()
 	{
-		return 123999;
+		return [123999];
 	}
 }
