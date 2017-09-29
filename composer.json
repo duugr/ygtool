@@ -1,0 +1,10 @@
+{
+    "name": "ygtools/status",
+    "authors": [
+        {
+            "name": "Russell Kang",
+            "email": "iering@icloud.com"
+        }
+    ],
+    "require": {}
+}
