@@ -1,6 +1,6 @@
 <?php
 
-require '../src/encrypt.config.php';
+require 'config.php';
 require '../src/Crypt.php';
 require '../src/Cipher.php';
 
