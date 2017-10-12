@@ -6,8 +6,13 @@ namespace YGTool;
  */
 class Status
 {
-	public function test()
+	public static function test()
 	{
 		return [123999];
+	}
+
+	public static function bind()
+	{
+		return 132123;
 	}
 }
